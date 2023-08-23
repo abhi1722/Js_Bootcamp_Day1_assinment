@@ -1,1 +1,1 @@
-# Js_Bootcamp_Day1_assinment
+# Js_Bootcamp_Day1_assignment
